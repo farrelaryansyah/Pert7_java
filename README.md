@@ -1,3 +1,3 @@
 # Pertemuan 7
-Nama : Farrel Aryansyah  
+Nama : Mohamad Farrel Aryansyah  
 NPM  : 50422898
